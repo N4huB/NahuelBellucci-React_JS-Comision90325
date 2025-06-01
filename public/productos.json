@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Termo Stanley",
         "descripcion": "Termo de acero inoxidable, mantiene bebidas calientes o frías por 24hs.",
-        "precio": "$25.000",
+        "precio": "25000",
         "imagen": "/img/termo_stanley.png",
         "categoria": "termos"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "nombre": "Mate Imperial",
         "descripcion": "Mate de calabaza forrado en cuero con virola de acero inoxidable.",
-        "precio": "$15.000",
+        "precio": "15000",
         "imagen": "/img/mate_imperial.png",
         "categoria": "mates"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "nombre": "Vaso Térmico",
         "descripcion": "Vaso térmico con tapa, ideal para café o té en movimiento.",
-        "precio": "$10.000",
+        "precio": "10000",
         "imagen": "/img/vaso_termico.jpg",
         "categoria": "vasos"
     }
